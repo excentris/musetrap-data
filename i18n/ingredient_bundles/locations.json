@@ -1,0 +1,24 @@
+{
+    "en": {
+        "laboratory": "Laboratory",
+        "castle": "Castle",
+        "jungle": "Jungle",
+        "observatory": "Observatory",
+        "church": "Church",
+        "desert": "Desert",
+        "forest": "Forest",
+        "bar": "Bar",
+        "sewers": "Sewers"
+    },
+    "es": {
+        "laboratory": "Laboratorio",
+        "castle": "Castillo",
+        "jungle": "Selva",
+        "observatory": "Observatorio",
+        "church": "Iglesia",
+        "desert": "Desierto",
+        "forest": "Bosque",
+        "bar": "Bar",
+        "sewers": "Alcantarillas"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "humanoid_creature": {
+        "ingredient_bundles": [
+            "creatures",
+            "weapons"
+        ]
+    },
+    "animal_warrior": {
+        "ingredient_bundles": [
+            "animals",
+            "weapons"
+        ]
+    },
+    "hybrid_animal": {
+        "ingredient_bundles": [
+            "animals",
+            "animals"
+        ]
+    },
+    "cyborg": {
+        "ingredient_bundles": [
+            "animals",
+            "mechanical_parts",
+            "electronic_components"
+        ]
+    },
+    "exotic_locations": {
+        "ingredient_bundles": [
+            "locations",
+            "locations"
+        ]
+    }
+}
+

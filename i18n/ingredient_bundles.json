@@ -1,0 +1,36 @@
+{
+    "en": {
+        "animal_traits": "Animal traits",
+        "animals": "Animals",
+        "creatures": "Creatures",
+        "colors_basic": "Colors (basic)",
+        "emotions": "Emotions",
+        "physical_actions": "Physical actions",
+        "plants": "Plants",
+        "transportation": "Transportation",
+        "weapons": "Weapons",
+        "steampunk": "Steampunk",
+        "mechanical_parts": "Mechanical parts",
+        "electronic_components": "Electronic components",
+        "locations": "Locations",
+        "materials": "Materials",
+        "elementals": "Elementals"
+    },
+    "es": {
+        "animal_traits": "Rasgos animales",
+        "animals": "Animales",
+        "creatures": "Criaturas",
+        "colors_basic": "Colores (básicos)",
+        "emotions": "Emociones",
+        "physical_actions": "Acciones físicas",
+        "plants": "Plantas",
+        "transportation": "Transporte",
+        "weapons": "Armas",
+        "steampunk": "Steampunk",
+        "mechanical_parts": "Partes mecánicas",
+        "electronic_components": "Componentes electrónicos",
+        "locations": "Ubicaciones",
+        "materials": "Materiales",
+        "elementals": "Elementales"
+    }
+}

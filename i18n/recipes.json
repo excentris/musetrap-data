@@ -1,0 +1,46 @@
+{
+    "en": {
+        "humanoid_creature": {
+            "name": "Humanoid creature",
+            "description": "A humanoid is something that has an appearance resembling a human being."
+        },
+        "animal_warrior": {
+            "name": "Animal warrior",
+            "description": "A warrior with animal traits."
+        },
+        "hybrid_animal": {
+            "name": "Hybrid animal",
+            "description": "A hybrid animal is one with parentage of two separate species."
+        },
+        "cyborg": {
+            "name": "Cyborg",
+            "description": "A cyborg is a being with both biological and artificial (e.g. mechanical or electronic) parts."
+        },
+        "exotic_locations": {
+            "name": "Exotic locations",
+            "description": "Out of the ordinary locations."
+        }
+    },
+    "es": {
+        "humanoid_creature": {
+            "name": "Criatura humanoide",
+            "description": "Una criatura humanoide es un ser que tiene aspecto humano."
+        },
+        "animal_warrior": {
+            "name": "Guerrero animal",
+            "description": "Un guerrero con rasgos animales"
+        },
+        "hybrid_animal": {
+            "name": "Animal híbrido",
+            "description": "Un animal híbrido es el resultado de cruzar animales de diferentes especies."
+        },
+        "cyborg": {
+            "name": "Cíborg",
+            "description": "Un cíborg es un ser formado por materia viva y partes mecánicas o electrónicas."
+        },
+        "exotic_locations": {
+            "name": "Ubicaciones exóticas",
+            "description": "Lugares fuera de lo común."
+        }
+    }
+}
