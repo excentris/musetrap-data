@@ -1,0 +1,38 @@
+{
+    "en": {
+        "nuts_and_bolts": "Nuts and bolts",
+        "gear": "Gear",
+        "spring": "Spring",
+        "hydraulic_cylinder": "Hydraulic cylinder",
+        "belt": "Belt",
+        "chain": "Chain",
+        "piston": "Piston",
+        "lever": "Lever",
+        "valve": "Valve",
+        "wheel": "Wheel",
+        "vent": "Vent",
+        "turbine": "Turbine",
+        "blade": "Blade",
+        "engine": "Engine",
+        "propeller": "Propeller",
+        "hook": "Hook"
+    },
+    "es": {
+        "nuts_and_bolts": "Ruercas y tornillos",
+        "gear": "Engranaje",
+        "spring": "Muelle",
+        "hydraulic_cylinder": "Cilindro hidráulico",
+        "belt": "Cinturón",
+        "chain": "Cadena",
+        "piston": "Pistón",
+        "lever": "Palanca",
+        "valve": "Válvula",
+        "wheel": "Rueda",
+        "vent": "Respiradero",
+        "turbine": "Turbina",
+        "blade": "Cuchilla",
+        "engine": "Motor",
+        "propeller": "Hélice",
+        "hook": "Gancho"
+    }
+}

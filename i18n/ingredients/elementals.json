@@ -1,0 +1,18 @@
+{
+    "en": {
+        "air": "Air",
+        "darkness": "Darkness",
+        "fire": "Fire",
+        "light": "Light",
+        "lightning": "Lightning",
+        "ice": "Ice"
+    },
+    "es": {
+        "air": "Aire",
+        "darkness": "Oscuridad",
+        "fire": "Fuego",
+        "light": "Luz",
+        "lightning": "Relámpago",
+        "ice": "Hielo"
+    }
+}

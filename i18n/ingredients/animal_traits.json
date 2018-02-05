@@ -1,0 +1,30 @@
+{
+    "en": {
+        "claws": "Claws",
+        "fangs": "Fangs",
+        "fins": "Fins",
+        "fur": "Fur",
+        "hooves": "Hooves",
+        "horns": "Horns",
+        "scales": "Scales",
+        "sting": "Sting",
+        "tail": "Tail",
+        "tentacles": "Tentacles",
+        "tusks": "Tusks",
+        "wings": "Wings"
+    },
+    "es": {
+        "claws": "Garras",
+        "fangs": "Colmillos (internos)",
+        "fins": "Aletas",
+        "fur": "Pelaje",
+        "hooves": "Pezuñas",
+        "horns": "Cuernos",
+        "scales": "Escamas",
+        "sting": "Aguijón",
+        "tail": "Cola",
+        "tentacles": "Tentáculos",
+        "tusks": "Colmillos (externos)",
+        "wings": "Alas"
+    }
+}
